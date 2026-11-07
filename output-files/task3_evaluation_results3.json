@@ -1,0 +1,1102 @@
+{
+  "1065068-1": {
+    "patient_id": "88390",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1079861-1": {
+    "patient_id": "88391",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1079877-1": {
+    "patient_id": "88392",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    }
+  },
+  "1079877-2": {
+    "patient_id": "88393",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    }
+  },
+  "1079877-3": {
+    "patient_id": "88394",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    }
+  },
+  "1079877-4": {
+    "patient_id": "88395",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.6666666666666666
+    }
+  },
+  "1079925-1": {
+    "patient_id": "88396",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1082912-1": {
+    "patient_id": "88397",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1087841-1": {
+    "patient_id": "88398",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-2": {
+    "patient_id": "88399",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-3": {
+    "patient_id": "88400",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-4": {
+    "patient_id": "88401",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-5": {
+    "patient_id": "88402",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-6": {
+    "patient_id": "88403",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087841-7": {
+    "patient_id": "88404",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.7142857142857143
+    }
+  },
+  "1087842-1": {
+    "patient_id": "88405",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1087888-1": {
+    "patient_id": "88406",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1087895-1": {
+    "patient_id": "88407",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1090580-1": {
+    "patient_id": "88408",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1097744-1": {
+    "patient_id": "88409",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1097763-1": {
+    "patient_id": "88410",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    }
+  },
+  "1112595-1": {
+    "patient_id": "88411",
+    "tfidf": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    }
+  },
+  "1112595-2": {
+    "patient_id": "88412",
+    "tfidf": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    }
+  },
+  "1112595-3": {
+    "patient_id": "88413",
+    "tfidf": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.5
+    }
+  },
+  "1112595-4": {
+    "patient_id": "88414",
+    "tfidf": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    }
+  },
+  "1112595-5": {
+    "patient_id": "88415",
+    "tfidf": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.8,
+      "recall_5": 1.0
+    }
+  },
+  "1112608-1": {
+    "patient_id": "88416",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1131917-1": {
+    "patient_id": "88417",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1151652-1": {
+    "patient_id": "88418",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1151652-2": {
+    "patient_id": "88419",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1156865-1": {
+    "patient_id": "88420",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.5
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.5
+    }
+  },
+  "1156897-1": {
+    "patient_id": "88421",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1156905-1": {
+    "patient_id": "88422",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1156922-1": {
+    "patient_id": "88423",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1156959-1": {
+    "patient_id": "88424",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1156960-1": {
+    "patient_id": "88425",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1156960-2": {
+    "patient_id": "88426",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1164400-1": {
+    "patient_id": "88427",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1164411-1": {
+    "patient_id": "88428",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1164415-1": {
+    "patient_id": "88429",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1164436-1": {
+    "patient_id": "88430",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1166546-1": {
+    "patient_id": "88431",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1166562-1": {
+    "patient_id": "88432",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1166581-1": {
+    "patient_id": "88433",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 0.2
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.13333333333333333
+    }
+  },
+  "1166581-2": {
+    "patient_id": "88434",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 0.2
+    },
+    "bm25": {
+      "precision_5": 0.6,
+      "recall_5": 0.2
+    }
+  },
+  "1173128-1": {
+    "patient_id": "88435",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1173139-1": {
+    "patient_id": "88436",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1174869-1": {
+    "patient_id": "88437",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1175025-1": {
+    "patient_id": "88438",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1175899-1": {
+    "patient_id": "88439",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1175920-1": {
+    "patient_id": "88440",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1177935-1": {
+    "patient_id": "88441",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1180466-1": {
+    "patient_id": "88442",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.125
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1180859-1": {
+    "patient_id": "88443",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1180860-1": {
+    "patient_id": "88444",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1181810-1": {
+    "patient_id": "88445",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1181815-1": {
+    "patient_id": "88446",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1181818-1": {
+    "patient_id": "88447",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1181820-1": {
+    "patient_id": "88448",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1181821-1": {
+    "patient_id": "88449",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1182400-1": {
+    "patient_id": "88450",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.6666666666666666
+    }
+  },
+  "1182401-1": {
+    "patient_id": "88451",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1183227-1": {
+    "patient_id": "88452",
+    "tfidf": {
+      "precision_5": 0.6,
+      "recall_5": 0.6
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.4
+    }
+  },
+  "1183264-1": {
+    "patient_id": "88453",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1184073-1": {
+    "patient_id": "88454",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1184093-1": {
+    "patient_id": "88455",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1184104-1": {
+    "patient_id": "88456",
+    "tfidf": {
+      "precision_5": 0.4,
+      "recall_5": 0.2222222222222222
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.1111111111111111
+    }
+  },
+  "1185529-1": {
+    "patient_id": "88457",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1187886-1": {
+    "patient_id": "88458",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.16666666666666666
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.16666666666666666
+    }
+  },
+  "1187928-1": {
+    "patient_id": "88459",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    },
+    "bm25": {
+      "precision_5": 0.4,
+      "recall_5": 0.6666666666666666
+    }
+  },
+  "1187929-1": {
+    "patient_id": "88460",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.5
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1190163-1": {
+    "patient_id": "88461",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1190177-1": {
+    "patient_id": "88462",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1190221-1": {
+    "patient_id": "88463",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1192792-1": {
+    "patient_id": "88464",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1192795-1": {
+    "patient_id": "88465",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1192816-1": {
+    "patient_id": "88466",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1192821-1": {
+    "patient_id": "88467",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    }
+  },
+  "1192821-2": {
+    "patient_id": "88468",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    }
+  },
+  "1196296-1": {
+    "patient_id": "88469",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1198216-1": {
+    "patient_id": "88470",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.5
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.5
+    }
+  },
+  "1198256-1": {
+    "patient_id": "88471",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1199590-1": {
+    "patient_id": "88472",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1199630-1": {
+    "patient_id": "88473",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1200253-1": {
+    "patient_id": "88474",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    }
+  },
+  "1200253-2": {
+    "patient_id": "88475",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    }
+  },
+  "1200253-3": {
+    "patient_id": "88476",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    },
+    "bm25": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    }
+  },
+  "1200253-4": {
+    "patient_id": "88477",
+    "tfidf": {
+      "precision_5": 1.0,
+      "recall_5": 0.45454545454545453
+    },
+    "bm25": {
+      "precision_5": 0.8,
+      "recall_5": 0.36363636363636365
+    }
+  },
+  "1208865-1": {
+    "patient_id": "88478",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1208867-1": {
+    "patient_id": "88479",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1208875-1": {
+    "patient_id": "88480",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1208875-2": {
+    "patient_id": "88481",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 1.0
+    }
+  },
+  "1208903-1": {
+    "patient_id": "88482",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1208923-1": {
+    "patient_id": "88483",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1208925-1": {
+    "patient_id": "88484",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  },
+  "1208964-1": {
+    "patient_id": "88485",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1208965-1": {
+    "patient_id": "88486",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.2
+    }
+  },
+  "1208966-1": {
+    "patient_id": "88487",
+    "tfidf": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    },
+    "bm25": {
+      "precision_5": 0.2,
+      "recall_5": 0.3333333333333333
+    }
+  },
+  "1215478-1": {
+    "patient_id": "88488",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  },
+  "1215508-1": {
+    "patient_id": "88489",
+    "tfidf": {
+      "precision_5": 0.0,
+      "recall_5": null
+    },
+    "bm25": {
+      "precision_5": 0.0,
+      "recall_5": null
+    }
+  }
+}
